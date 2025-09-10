@@ -95,9 +95,3 @@ As a **data analyst/scientist at Target**, the goal is to:
 
 ---
 
-## 🚀 How to Use  
-
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/your-username/target-brazil-analysis.git
-   cd target-brazil-analysis
